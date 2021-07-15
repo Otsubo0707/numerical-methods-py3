@@ -10,3 +10,6 @@ Python3による数値解析の基礎に関する教材
     - lecture: Runge-Kutta method
 - exp_python3_report.ipynb
     - report template
+    
+- spring-mass_anim.ipynb
+	- report_animation
